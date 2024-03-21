@@ -1,0 +1,3202 @@
+[
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-1",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Tetracycline",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 101,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-20T17:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-2",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Fenbendazole",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 142,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-21T17:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-3",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Dectomax pour",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 64,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-22T12:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-4",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Tetracycline",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 121,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-22T17:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-5",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Albendazole",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 110,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-22T15:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-6",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Fenbendazole",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 70,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-22T15:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-7",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Fenbendazole",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 132,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-21T14:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-8",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Dectomax pour",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 136,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-22T15:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-9",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Ivermectin",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 124,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-20T19:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-10",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Albendazole",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 124,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-20T22:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-11",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Ivermectin",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 137,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-20T20:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-12",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Fenbendazole",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 149,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-22T21:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-13",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Ivermectin",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 73,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-22T23:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-14",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Albendazole",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 52,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-20T15:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-15",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Dectomax pour",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 71,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-20T13:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-16",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Tetracycline",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 102,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-21T23:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-17",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Dectomax pour",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 51,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-20T22:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-18",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Fenbendazole",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 137,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-20T14:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-19",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Dectomax pour",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 79,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-22T15:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-20",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Albendazole",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 87,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-22T12:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-21",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Albendazole",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 51,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-21T19:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-22",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Dectomax pour",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 113,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-21T14:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-23",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Tetracycline",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 109,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-22T20:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-24",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Ivermectin",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 70,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-21T13:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-25",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Tetracycline",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 82,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-21T14:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-26",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Dectomax pour",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 125,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-20T15:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-27",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Albendazole",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 107,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-20T16:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-28",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Dectomax pour",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 71,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-22T14:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-29",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Fenbendazole",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 138,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-20T23:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-30",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Tetracycline",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 98,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-22T17:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-31",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Fenbendazole",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 140,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-22T17:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-32",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Tetracycline",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 108,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-22T13:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-33",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Albendazole",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 91,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-21T12:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-34",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Tetracycline",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 141,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-22T12:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-35",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Albendazole",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 109,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-20T14:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-36",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Dectomax pour",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 129,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-22T12:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-37",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Fenbendazole",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 64,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-21T16:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-38",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Tetracycline",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 111,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-20T16:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-39",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Fenbendazole",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 111,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-20T16:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-40",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Tetracycline",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 96,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-20T15:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-41",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Dectomax pour",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 111,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-20T18:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-42",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Dectomax pour",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 100,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-22T13:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-43",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Ivermectin",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 104,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-21T17:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-44",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Ivermectin",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 113,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-22T19:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-45",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Ivermectin",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 52,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-22T17:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-46",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Ivermectin",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 150,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-22T22:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-47",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Dectomax pour",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 100,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-21T21:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-48",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Fenbendazole",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 56,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-20T20:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-49",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Tetracycline",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 70,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-21T18:00:00"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.1",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Treatment",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "animal-50",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "24862",
+                "totalInSession": 35
+            },
+            "event": {
+                "medicine": {
+                    "name": "Ivermectin",
+                    "approved": "",
+                    "registeredID": {
+                        "id": "",
+                        "scheme": ""
+                    }
+                },
+                "procedure": "injection",
+                "batches": [
+                    {
+                        "id": "1122346T",
+                        "expiryDate": "2024-11-04T00:00:00Z"
+                    }
+                ],
+                "withdrawals": [
+                    {
+                        "productType": "Vaccination",
+                        "endDate": "2022-04-10T07:30:23Z"
+                    }
+                ],
+                "dose": {
+                    "doseQuantity": 122,
+                    "doseUnits": "MLT"
+                },
+                "site": "shoulder",
+                "responsible": "Jacob Bridges 0400 357 951"
+            }
+        },
+        "eventDateTime": "2024-03-21T18:00:00"
+    }
+]

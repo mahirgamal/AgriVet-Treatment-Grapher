@@ -45,6 +45,7 @@ for bar in bars.patches:
     bars.annotate(format(bar.get_height(), '.0f'),
                    (bar.get_x() + bar.get_width() / 2, bar.get_height()),
                    ha='center', va='center', size=10, xytext=(0, 8), textcoords='offset points')
+plt.gca().set_xticklabels(treatment_summary.index, rotation=45, ha='right')
 
 # Treatments Over Time Summary
 plt.subplot(1, 4, 2)
@@ -53,6 +54,8 @@ plt.title('Daily treatment distribution')
 plt.ylabel('Number of animals')
 plt.xlabel('Date')
 plt.xticks(rotation=45)
+plt.gca().set_xticklabels(treatments_over_time_summary.index, rotation=45, ha='right')
+
 
 # Add annotations for treatment counts inside the bars
 for p in ax.patches:
@@ -85,10 +88,15 @@ plt.legend(handles=legend_patches, bbox_to_anchor=(0.5, -0.1), loc='upper center
 plt.subplot(1, 4, 4)
 # Plot average dose
 average_bars = dose_stats['mean'].plot(kind='bar', label='Average Dose', yerr=[dose_stats['mean'] - dose_stats['min'], dose_stats['max'] - dose_stats['mean']], error_kw=dict(capsize=5, capthick=2, ecolor='darkred'), color=[treatment_colors[treatment] for treatment in dose_stats.index], width=0.5)  # Adjust the width
-plt.title('Avarage dose by treatment')
+plt.title('Average dose by treatment')
 plt.xlabel('Treatment Name')
 plt.ylabel('Dose (ml)')
 plt.xticks(rotation=45)
+
+# Add x-axis labels under the bars
+plt.gca().set_xticklabels(dose_stats.index, rotation=45, ha='right')
+
+
 
 # Annotate the average dose on each bar
 for i, mean_value in enumerate(dose_stats['mean']):

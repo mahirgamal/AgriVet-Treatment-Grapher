@@ -37,7 +37,7 @@ AgriVet Treatment Grapher is a Python-based tool designed to visualise treatment
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 ## Acknowledgments
-We acknowledge that this work originates from the Trakka project and builds on the existing TerraCipher Trakka implementation. We appreciate the support and resources provided by the Trakka project team. Also, we thank Dave Swain and Will Swain from TerraCipher for their guidance and assistance throughout **LEI2JSON**.
+We acknowledge that this work originates from the Trakka project and builds on the existing TerraCipher Trakka implementation. We appreciate the support and resources provided by the Trakka project team. Also, we thank Dave Swain and Will Swain from TerraCipher for their guidance and assistance throughout this project.
 
 
 ## License

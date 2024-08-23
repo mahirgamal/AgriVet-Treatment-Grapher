@@ -1,6 +1,16 @@
 # AgriVet Treatment Grapher
 
-AgriVet Treatment Grapher is a Python-based tool designed to visualise treatment data for animals. It processes JSON data to generate insightful visualisations, helping veterinarians and researchers analyse treatment patterns and dosages.
+AgriVet Treatment Grapher is a Python-based tool designed to visualise treatment data for animals. It processes JSON data to generate insightful visualisations, helping veterinarians and researchers analyse treatment patterns and dosages. This tool is part of a real-life demonstration for data sharing through the Livestock Event Information Sharing Architecture (LEISA). It utilises the Livestock Event Information (LEI) schema for standardised data representation and LEI2JSON for efficient data conversion.
+
+## Integration with LEISA
+
+AgriVet Treatment Grapher demonstrates how data can be shared and visualized using the LEISA architecture. It adheres to the LEI schema standards to ensure consistency and interoperability in data representation. The tool also employs the [LEI2JSON](https://github.com/mahirgamal/LEI2JSON) converter for seamless JSON data handling, making it easier to work with standardised livestock event information.
+
+## Related Projects
+
+- [LEI Schema](https://github.com/mahirgamal/LEI-schema): Defines the standardized schema for livestock event information.
+- [LEISA](https://github.com/mahirgamal/LEISA): The architecture framework for sharing livestock event information.
+- [LEI2JSON](https://github.com/mahirgamal/LEI2JSON): A tool to convert LEI data into JSON format for easy processing.
 
 ## Features
 
